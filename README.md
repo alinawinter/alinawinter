@@ -13,4 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+an interesting text / description about yourself,
+a link to a picture / gif,
+a list or table.
+
+ good commit message is an art form in itself. Try to stick to the following rules:
+
+Be short and descriptive
+Always use english
+The first word should be a verb: "add", "fix", "remove", etc.
+Use imperative and present tense: "add shop page" instead of "added shop page"
+Do not end your commit message with a period
+When in doubt, describe why you did something instead of how: "fix typo" instead of "replaced the letter a with an e in the second word"
+
+
 -->
+
+I am a political scientist turned developer. Currently, I am completing an intensive full-time web development training at neue fische.
+
+
+
