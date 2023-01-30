@@ -30,7 +30,7 @@ When in doubt, describe why you did something instead of how: "fix typo" instead
 
 -->
 
-I am a political scientist turned developer. Currently, I am completing an intensive full-time [web development training at neue fische](https://www.neuefische.de/en/bootcamp/web-development).
+I am a political scientist turned developer. Currently, I am completing an intensive full-time [web development training](https://www.neuefische.de/en/bootcamp/web-development) at [neue fische](https://www.neuefische.de/)
 
 #### Technical development skills:
 - HTML
@@ -46,6 +46,6 @@ I am a political scientist turned developer. Currently, I am completing an inten
 - continuous development
 - international experience
 
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/alina-winter-b404a6182/)**
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/alina-winter-b404a6182/)**
 
 ![](https://images.unsplash.com/photo-1548266652-99cf27701ced?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80)
