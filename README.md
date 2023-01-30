@@ -39,7 +39,7 @@ I am a political scientist turned developer. Currently, I am completing an inten
 
 #### Soft skills:
 - problem solver
-- empathetic
+- empathic
 - responsible
 - self-dependent
 - well-organised
