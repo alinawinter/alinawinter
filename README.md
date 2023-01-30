@@ -46,3 +46,4 @@ I am a political scientist turned developer. Currently, I am completing an inten
 - continuous development
 - international experience
 
+[LinkedIn](https://www.linkedin.com/in/alina-winter-b404a6182/)
