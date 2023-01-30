@@ -44,4 +44,5 @@ I am a political scientist turned developer. Currently, I am completing an inten
 - self-dependent
 - well-organised
 - continuous development
+- international experience
 
