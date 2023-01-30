@@ -32,5 +32,16 @@ When in doubt, describe why you did something instead of how: "fix typo" instead
 
 I am a political scientist turned developer. Currently, I am completing an intensive full-time web development training at neue fische.
 
+Technical development skills:
+- HTML
+- CSS
+- Javascript
 
+Soft skills:
+- problem solver
+- empathetic
+- responsible
+- self-dependent
+- well-organised
+- continuous development
 
