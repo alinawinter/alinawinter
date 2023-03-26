@@ -39,14 +39,8 @@ I am a **frontend developer with a background in social scienes**. Currently, I 
 -	React 18.2
 -	Next.js
 -	Npm
+-	MongoDB
+-	Express.js
+-	Node.js
 
-#### Soft skills:
-- problem solver
-- empathic
-- responsible
-- self-dependent
-- well-organised
-- continuous development
-- international experience
-
-**Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alina-winter-b404a6182/)**
+**Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alinawinter)**
