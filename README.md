@@ -33,9 +33,10 @@ When in doubt, describe why you did something instead of how: "fix typo" instead
 I am a **frontend developer with a background in social scienes**. Currently, I am completing an intensive full-time [web development training](https://www.neuefische.de/en/bootcamp/web-development) at [neue fische](https://www.neuefische.de/)
 
 #### Technical development skills:
-- HTML5
--	CSS3
+
 -	JavaScript ES2022
+-	HTML5
+-	CSS3
 -	React 18.2
 -	Next.js
 -	Npm
