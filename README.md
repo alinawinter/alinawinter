@@ -32,16 +32,4 @@ When in doubt, describe why you did something instead of how: "fix typo" instead
 
 I am a **software developer with a background in social scienes**.
 
-#### Technical development skills:
-
--	JavaScript ES2022
--	HTML5
--	CSS3
--	React 18.2
--	Next.js
--	Npm
--	MongoDB
--	Express.js
--	Node.js
-
 **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alinawinter)**
